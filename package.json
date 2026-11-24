@@ -1,0 +1,29 @@
+{
+  "name": "devops-midterm-23-ntu-cs-1184",
+  "version": "1.0.0",
+  "description": "this repo is for devops midterm evaluation.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node --test",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammad-azeem-deve/devops-midterm-23-ntu-cs-1184.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhammad-azeem-deve/devops-midterm-23-ntu-cs-1184/issues"
+  },
+  "homepage": "https://github.com/muhammad-azeem-deve/devops-midterm-23-ntu-cs-1184#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.15.0",
+    "globals": "^17.14.0"
+  }
+}
